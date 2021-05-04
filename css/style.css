@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: url(bg.jpg) no-repeat;
+  background-size: cover;
+}
+
+#login {
+  color: hsl(0deg 0% 100%);
+  transform: translate(-50%, -50%);
+  left: 47%;
+  top: 46%;
+  position: absolute;
+  border-bottom: 6px solid #4caf50;
+  max: bottom 50px;
+}
+#logi {
+  height: 20px;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 55%;
+  position: absolute;
+}
+
+#logif {
+  height: 20px;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 59%;
+  position: absolute;
+}
+#button {
+  width: 200px;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 63%;
+  position: absolute;
+}
